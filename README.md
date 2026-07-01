@@ -91,4 +91,4 @@ The significant upward shift in $\rho$ from **0.60 to 0.72** provides definitive
 All analyses, data filtering, and high-resolution figure exports can be reproduced by executing the core script:
 
 ```R
-source("01_state_space_modeling.R")
+source("src/01_state_space_modeling.R")
