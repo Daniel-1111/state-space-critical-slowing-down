@@ -80,9 +80,9 @@ To statistically validate the Critical Slowing Down hypothesis, the dataset was 
 | Phase | System Status | Posterior Mean ($\rho$) | 95% Credible Interval | Restoring Force ($k$) |
 | :---: | :--- | :---: | :---: | :---: |
 | **Phase 1** (Beeps 1-750) | Stable / Resilient | **0.598** | $[0.454, 0.757]$ | **Strong** |
-| **Phase 2** (Beeps 751-1476) | Pre-Transition Decay | **0.717** | $[0.592, 0.844]$ | **Frouxa (Weakened)** |
+| **Phase 2** (Beeps 751-1476) | Pre-Transition Decay | **0.717** | $[0.592, 0.844]$ | **Weakened** |
 
-The significant upward shift in $\rho$ from **0.60 to 0.72** provides definitive mathematical proof of structural degradation. Prior to the clinical transition, the patient's internal "mola" lost its elasticity, confirming that **Critical Slowing Down** can be successfully detected at a micro-structural level using Bayesian State-Space Models.
+The significant upward shift in $\rho$ from **0.60 to 0.72** provides definitive mathematical proof of structural degradation. Prior to the clinical transition, the patient's internal "spring" lost its elasticity, confirming that **Critical Slowing Down** can be successfully detected at a micro-structural level using Bayesian State-Space Models.
 
 ---
 
