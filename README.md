@@ -57,7 +57,7 @@ To ensure the mathematical validity of our parameter estimations, MCMC chains we
   <img src="figures/mcmc_diagnostics.png" alt="MCMC Diagnostics" width="85%">
 </p>
 
-*The trace plots for $\sigma_{\epsilon}$ (`sd_y`) and $\sigma_{\eta}$ (`sd_level`) demonstrate perfect stationary mixing (resembling "fuzzy caterpillars"), proving that the numerical chains successfully converged to a stable posterior distribution. Click [here](figures/mcmc_diagnostics.png) to open the high-resolution file.*
+*The trace plots for sd_y (measurement noise) and sd_level (process shocks) demonstrate perfect stationary mixing (resembling "fuzzy caterpillars"), proving that the numerical chains successfully converged to a stable posterior distribution. Click [here](figures/mcmc_diagnostics.png) to open the high-resolution file.*
 
 ---
 
