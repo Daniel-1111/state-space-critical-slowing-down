@@ -42,7 +42,7 @@ Where:
 * $\rho$ (rho): **Autoregressive coefficient (emotional inertia)**.
 * $\sigma_{\eta}^2$: Process variance representing daily environmental shocks.
 
-> ⚠️ **The Mathematical Inversion:** In this statistical framework, $\rho$ acts as the exact **inverse of the spring stiffness ($k$)**. A $\rho \to 0$ signifies an instantaneous rebound (infinitely stiff mola), while a $\rho \to 1$ implies a complete loss of restoring force—the system remembers and accumulates every single shock.
+> ⚠️ **The Mathematical Inversion:** In this statistical framework, $\rho$ acts as the exact **inverse of the spring stiffness ($k$)**. A $\rho \to 0$ signifies an instantaneous rebound (infinitely stiff spring), while a $\rho \to 1$ implies a complete loss of restoring force—the system remembers and accumulates every single shock.
 
 ---
 
